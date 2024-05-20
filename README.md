@@ -23,5 +23,6 @@ is doubted.
 The Technical Reports present contrasting numerical evidence as documented in two main files:
 
 1-Technical Report by Kyrylo Snizkho (2023)
+
 2-Tecnical Report by Graciana Puentes (2023)
 
