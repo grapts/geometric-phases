@@ -3,7 +3,7 @@ measurement-induced phases and dephasing: Broken symmetry of the geometric phase
 
 In this collection of reports we a analyze a series of technical issues, concerning the limits of validity of the analytic result reported in Ref. [1]. The issues under consideration can be outlined as follows:
 
-1. The exponential approximation $(1+\Gamma/N)^N \approx \exp{\Gamma}$ invoked in the analytic result reported in Ref. [1] is claimed to be questionable, in the limit of strong measurement (C → ∞)
+1. The exponential approximation $(1+\Gamma/N)^N \approx e^{\Gamma}$ invoked in the analytic result reported in Ref. [1] is claimed to be questionable, in the limit of strong measurement (C → ∞)
 
 2. The issue of non-Hermitian Kraus operators, and their relation to the topological transitions in the
 measurement-induced phase, is claimed to be unclear and contradictive to Gerhart et al., PNAS March 17, 2020 117 (11) 5706-5713.
